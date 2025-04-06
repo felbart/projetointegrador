@@ -21,7 +21,13 @@ O objetivo é construir um protótipo funcional de **IoT doméstico**, capaz de 
 ---
 
 ## 📦 Estrutura do projeto
-projeto-ambiente-inteligente/ ├── arduino/ # Código do Arduino (.ino) ├── java/ # Código Java (simulação de leitura) ├── uml/ # Diagrama de classes UML ├── docs/ # README e relatório ├── imagens/ # Prints do circuito e LCD └── LICENSE # (opcional) Licença do projeto
+projeto-ambiente-inteligente/
+├── arduino/ # Código do Arduino (.ino)
+├── java/ # Código Java (simulação de leitura)
+├── uml/ # Diagrama de classes UML
+├── docs/ # README e relatório
+├── imagens/ # Prints do circuito e LCD
+└── LICENSE # (opcional) Licença do projeto
 
 
 ---
