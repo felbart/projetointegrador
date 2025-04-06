@@ -55,7 +55,7 @@ O código Java foi estruturado para simular a leitura dos dados recebidos via po
 
 ## 📷 Projeto no Tinkercad
 
-🔗 [Ver simulação do circuito no Tinkercad](https://www.tinkercad.com/things/8pZLcZEpGAo-sensor-de-temperatura-luz-e-umidade-/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=VVLLeiQSz8p7IVdY-tolIIAAr9fKbRth1e1pMGQSJUY)
+🔗 [Ver simulação do circuito no Tinkercad](https://www.tinkercad.com/things/8pZLcZEpGAo-sensor-de-temperatura-luz-e-umidade-?sharecode=7zVTeav1tQD9r5v9nuCzmm2bw_l8gxDrKV-8wxPYZIw)
 
 ---
 
